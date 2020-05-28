@@ -389,7 +389,11 @@ lg_peers:
     asn: 202297
     ipv4: 109.248.43.5
     ipv6: 2001:678:aa4::5
-
+  WD61:
+    asn: 20495
+    ipv4: 92.48.224.28
+    ipv6: 2001:15c8:1::28
+    
 readonly_peers:
   ISOLARIO1:
     asn: 2598
